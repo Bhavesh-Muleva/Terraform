@@ -28,3 +28,7 @@ ___
 ##### -> Terraform Output
 ##### -> Variables
 ##### -> Environment Variables
+
+---
+
+#### Note: Make sure to defined all variable which are unknown in main.tf file by creating .tfvars file and also to make sure you are mentioning proper .pem file to connect to your instance
