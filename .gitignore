@@ -1,0 +1,4 @@
+*.tfvars
+linux-machine.pem
+.tfstate.*
+.tfstate
